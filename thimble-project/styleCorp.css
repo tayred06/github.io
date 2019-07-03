@@ -1,0 +1,75 @@
+#corp {
+  text-align: center;
+}
+
+#corp ul {
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  list-style-position: inside;
+}
+
+#corp h1 {
+  font-family: "Merriweather", serif;
+  font-size: 32px;
+  text-align: center;
+}
+
+#corp h2 {
+  text-align: center;
+}
+
+#corp table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#corp td,th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+#corp table td {
+  width: 150px;
+}
+
+#corp table tr:nth-child(even){
+  background-color: #f2f2f2;
+}
+
+#corp table tr:hover {
+  background-color: #ddd;
+}
+
+#corp #contact {
+  border: 1px solid black;
+  border-radius: 50px;
+  width: 400px;
+  height: 575px;
+}
+
+#corp #contact h3 {
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#corp #contact p {
+  width: 300px;
+  margin-left: 50px;
+}
+
+#corp #contact input {
+  width: 300px;
+}
+
+#corp #contact textarea {
+  width: 300px;
+}
+
+#corp #contact  {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
